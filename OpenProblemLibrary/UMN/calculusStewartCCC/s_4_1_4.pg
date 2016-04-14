@@ -47,7 +47,7 @@ $ans = Compute("$a*$d+$b*$c");
 
 Context()->texStrings;
 BEGIN_TEXT
-The length of a rectangle is increasing at a rate of \($a\text{cm/s}\) and its width is increasing at a rate of \($b\text{cm/s}\).  When the length is \($c\text{cm}\) and the width is \($d\text{cm},\) how fast is the area of the rectangle increasing?
+The length of a rectangle is increasing at a rate of \($7\text{cm/s}\) and its width is increasing at a rate of \($2\text{cm/s}\).  When the length is \($30\text{cm}\) and the width is \($25\text{cm},\) how fast is the area of the rectangle increasing?
 $PAR
 Answer (in \(\text{cm}^2/\text{s}\)): \{ans_rule(30)\}
 END_TEXT
